@@ -1,4 +1,4 @@
-# Who-has-right
+# Who-is-right
 A program which helps to know who is right!
 
 Input
